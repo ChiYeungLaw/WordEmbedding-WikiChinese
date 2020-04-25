@@ -34,7 +34,7 @@
 
 利用`from gensim.models import Word2Vec`训练
 
-训练完成词向量下载地址：[Link]()
+训练完成词向量下载地址：[Link](https://pan.baidu.com/s/13a2ZXFf7ULJ6qQ2f72N3Dg) 密码:jvhn
 
 # 效果展示
 
